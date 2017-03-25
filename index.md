@@ -2,7 +2,7 @@
 ### Home to Brooklyn's Second Chinatown
 
 ## Map of Bensonhurst
-[GeoJSON file]()
+[GeoJSON file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst.geojson)
 
 ## Demographics and Statistics
 * Population size: 151,000 (as of 2010)
@@ -52,4 +52,4 @@
 10. Traffic Signal Condition    2996
 
 ## Map of 311 Complaints
-[Interactive Map]()
+[HTML file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst_311_calls.html)
