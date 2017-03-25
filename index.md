@@ -1,6 +1,3 @@
-# Bensonhurst, Brooklyn
-### Home to Brooklyn's Second Chinatown
-
 ## Map of Bensonhurst
 [GeoJSON file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst.geojson)
 ![Preview of map of Bensonhurst](https://i.gyazo.com/f8f07976b13c44c6d21220e83fdb529f.png)
@@ -58,5 +55,5 @@
 
 ## Map of 311 Complaints
 [Interactive Map](http://rawgit.com/jchen2186/bensonhurst/master/bensonhurst_311_calls.html)
-Preview of Map
+
 ![Preview map of Bensonhurst with 311 complaints](https://i.gyazo.com/9619968dac6edf791b7f186d30f6af54.png)
