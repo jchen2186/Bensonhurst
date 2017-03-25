@@ -3,6 +3,7 @@
 
 ## Map of Bensonhurst
 [GeoJSON file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst.geojson)
+![Preview of map of Bensonhurst](https://i.gyazo.com/f8f07976b13c44c6d21220e83fdb529f.png)
 
 ## Demographics and Statistics
 * Population size: 151,000 (as of 2010)
@@ -28,28 +29,34 @@
     * Empire State Building: 9.50 mi (15.30 km)
 
 ## Top 10 Parking Tickets by License Plate
-1. Plate ID: 40011JX        Tickets: 171
-2. Plate ID: 92709JU        Tickets: 162
-3. Plate ID: BLANKPLATE     Tickets: 154
-4. Plate ID: 12258MG        Tickets: 106
-5. Plate ID: 62496JM        Tickets: 104
-6. Plate ID: 88809JA        Tickets: 100
-7. Plate ID: K20396K        Tickets: 90
-8. Plate ID: 60431MD        Tickets: 86
-9. Plate ID: 56267MG        Tickets: 77
-10. Plate ID: 63545MC       Tickets: 76
+|  # |  Plate ID  | # of Tickets |
+|:--:|:----------:|:------------:|
+|  1 |   40011JX  |      171     |
+|  2 |   92709JU  |      162     |
+|  3 | BLANKPLATE |      154     |
+|  4 |   12258MG  |      106     |
+|  5 |   62496JM  |      104     |
+|  6 |   88809JA  |      100     |
+|  7 |   K20396K  |      90      |
+|  8 |   60431MD  |      86      |
+|  9 |   56267MG  |      77      |
+| 10 |   63545MC  |      76      |
 
 ## Top 10 Complaints
-1. Blocked Driveway             8521
-2. Illegal Parking              6963
-3. Heating                      6910
-4. Street Condition             6034
-5. Noise - Residential          5463
-6. Heat/Hot Water               4964
-7. Street Light Condition       4721
-8. Plumbing                     3330
-9. Water System                 3126
-10. Traffic Signal Condition    2996
+|  # |      Complaint Type      | # of Complaints |
+|:--:|:------------------------:|:---------------:|
+|  1 |     Blocked Driveway     |       8521      |
+|  2 |      Illegal Parking     |       6963      |
+|  3 |          Heating         |       6910      |
+|  4 |     Street Condition     |       6034      |
+|  5 |    Noise - Residential   |       5463      |
+|  6 |      Heat/Hot Water      |       4964      |
+|  7 |  Street Light Condition  |       4721      |
+|  8 |         Plumbing         |       3330      |
+|  9 |       Water System       |       3126      |
+| 10 | Traffic Signal Condition |       2996      |
 
 ## Map of 311 Complaints
-[HTML file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst_311_calls.html)
+[Interactive Map](http://rawgit.com/jchen2186/bensonhurst/master/bensonhurst_311_calls.html)
+Preview of Map
+![Preview map of Bensonhurst with 311 complaints](https://i.gyazo.com/9619968dac6edf791b7f186d30f6af54.png)
