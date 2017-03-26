@@ -1,5 +1,6 @@
 ## Map of Bensonhurst
 [GeoJSON file](https://github.com/jchen2186/bensonhurst/blob/master/bensonhurst.geojson)
+
 ![Preview of map of Bensonhurst](https://i.gyazo.com/f8f07976b13c44c6d21220e83fdb529f.png)
 
 ## Demographics and Statistics
@@ -25,7 +26,7 @@
     * Federal Hall: 6.68 mi (10.76 km)
     * Empire State Building: 9.50 mi (15.30 km)
 
-## Top 10 Parking Tickets by License Plate
+## Top Ten Most Ticketed License Plates
 |  # |  Plate ID  | # of Tickets |
 |:--:|:----------:|:------------:|
 |  1 |   40011JX  |      171     |
@@ -39,7 +40,9 @@
 |  9 |   56267MG  |      77      |
 | 10 |   63545MC  |      76      |
 
-## Top 10 Complaints
+[Python Script](https://github.com/jchen2186/mhc204/blob/master/homework/week02/tickets2.py)
+
+## Top Ten 311 Complaints
 |  # |      Complaint Type      | # of Complaints |
 |:--:|:------------------------:|:---------------:|
 |  1 |     Blocked Driveway     |       8521      |
@@ -52,6 +55,8 @@
 |  8 |         Plumbing         |       3330      |
 |  9 |       Water System       |       3126      |
 | 10 | Traffic Signal Condition |       2996      |
+
+[Python Script](https://github.com/jchen2186/mhc204/blob/master/homework/week03/complaints.py)
 
 ## Map of 311 Complaints
 [Interactive Map](http://rawgit.com/jchen2186/bensonhurst/master/bensonhurst_311_calls.html)
