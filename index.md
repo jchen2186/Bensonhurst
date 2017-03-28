@@ -59,6 +59,6 @@
 [Python Script](https://github.com/jchen2186/mhc204/blob/master/homework/week03/complaints.py)
 
 ## Map of 311 Complaints
-[Interactive Map](https://github.com/jchen2186/Bensonhurst/bensonhurst_311_calls.html)
+[Interactive Map](https://jchen2186.github.io/Bensonhurst/bensonhurst_311_calls.html)
 
 ![Preview map of Bensonhurst with 311 complaints](https://i.gyazo.com/9619968dac6edf791b7f186d30f6af54.png)
